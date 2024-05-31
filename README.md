@@ -1,3 +1,14 @@
+# Lab - Deploying Microservices on OpenShift
+
+Tasks Accomplished:
+
+- Deployed a containerized application on OpenShift.
+- Accessed the OpenShift console.
+- Deployed an application on OpenShift using a Git repository.
+- Explored the OpenShift build and route features.
+
+
+
 
 ![Node.js CI](https://github.com/nodeshift-starters/nodejs-rest-http-crud/workflows/ci/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/nodeshift-starters/nodejs-rest-http-crud/badge.svg?branch=master)](https://coveralls.io/github/nodeshift-starters/nodejs-rest-http-crud?branch=master) 
